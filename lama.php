@@ -1,1 +1,1 @@
-// 
+// Substitute of github copilot
